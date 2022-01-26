@@ -1,0 +1,131 @@
+﻿SCHOOL,CONFERENCE,W,L,PF,PA,AVG_POINTS_PER _GAME,DEF_ AVG_POINTS_PER _GAME
+Cincinnati,AAC,13,1,516,236,36.9,16.9
+Houston,AAC,12,2,508,286,36.3,20.4
+UCF,AAC,9,4,478,333,36.8,25.6
+SMU,AAC,8,4,461,341,38.4,28.4
+East Carolina,AAC,7,5,356,315,29.7,26.3
+Tulsa,AAC,7,6,343,346,26.4,26.6
+Memphis,AAC,6,6,361,351,30.1,29.3
+Navy,AAC,4,8,241,339,20.1,28.3
+Temple,AAC,3,9,196,450,16.3,37.5
+Tulane,AAC,2,10,331,408,27.6,34
+South Fla.,AAC,2,10,278,422,23.2,35.2
+Pittsburgh,ACC,11,3,580,331,41.4,23.6
+Wake Forest,ACC,11,3,574,404,41,28.9
+Clemson,ACC,10,3,342,193,26.3,14.8
+NC State,ACC,9,3,397,236,33.1,19.7
+Miami (FL),ACC,7,5,409,341,34.1,28.4
+Virginia,ACC,6,6,415,382,34.6,31.8
+Louisville,ACC,6,7,411,355,31.6,27.3
+Virginia Tech,ACC,6,7,308,329,23.7,25.3
+North Carolina,ACC,6,7,458,417,35.2,32.1
+Boston College,ACC,6,6,296,266,24.7,22.2
+Florida St.,ACC,5,7,331,318,27.6,26.5
+Syracuse,ACC,5,7,299,316,24.9,26.3
+Georgia Tech,ACC,3,9,288,402,24,33.5
+Duke,ACC,3,9,274,477,22.8,39.8
+Oklahoma St.,Big 12,12,2,435,253,31.1,18.1
+Baylor,Big 12,12,2,443,256,31.6,18.3
+Oklahoma,Big 12,11,2,508,335,39.1,25.8
+Kansas St.,Big 12,8,5,358,273,27.5,21
+Iowa St.,Big 12,7,6,407,267,31.3,20.5
+Texas Tech,Big 12,7,6,394,392,30.3,30.2
+West Virginia,Big 12,6,7,328,310,25.2,23.8
+Texas,Big 12,5,7,423,373,35.3,31.1
+TCU,Big 12,5,7,344,419,28.7,34.9
+Kansas,Big 12,2,10,249,506,20.8,42.2
+Michigan,Big Ten,12,2,501,243,35.8,17.4
+Ohio St.,Big Ten,11,2,594,296,45.7,22.8
+Michigan St.,Big Ten,11,2,414,329,31.8,25.3
+Iowa,Big Ten,10,4,328,269,23.4,19.2
+Purdue,Big Ten,9,4,378,291,29.1,22.4
+Minnesota,Big Ten,9,4,331,225,25.5,17.3
+Wisconsin,Big Ten,9,4,330,210,25.4,16.2
+Penn St.,Big Ten,7,6,325,225,25,17.3
+Maryland,Big Ten,7,6,381,399,29.3,30.7
+Illinois,Big Ten,5,7,242,263,20.2,21.9
+Rutgers,Big Ten,5,8,256,333,19.7,25.6
+Nebraska,Big Ten,3,9,335,272,27.9,22.7
+Northwestern,Big Ten,3,9,199,348,16.6,29
+Indiana,Big Ten,2,10,207,399,17.3,33.3
+UTSA,C-USA,12,2,516,345,36.9,24.6
+Western Ky.,C-USA,9,5,619,411,44.2,29.4
+UAB,C-USA,9,4,384,302,29.5,23.2
+Marshall,C-USA,7,6,429,309,33,23.8
+Middle Tenn.,C-USA,7,6,388,334,29.8,25.7
+UTEP,C-USA,7,6,310,321,23.8,24.7
+Old Dominion,C-USA,6,7,359,361,27.6,27.8
+North Texas,C-USA,6,7,357,357,27.5,27.5
+Charlotte,C-USA,5,7,324,408,27,34
+Fla. Atlantic,C-USA,5,7,298,294,24.8,24.5
+Rice,C-USA,4,8,258,434,21.5,36.2
+Louisiana Tech,C-USA,3,9,336,408,28,34
+Southern Miss.,C-USA,3,9,212,335,17.7,27.9
+FIU,C-USA,1,11,244,476,20.3,39.7
+Notre Dame,FBS Independent,11,2,458,256,35.2,19.7
+BYU,FBS Independent,10,3,430,322,33.1,24.8
+Army West Point,FBS Independent,9,4,427,290,32.8,22.3
+Liberty,FBS Independent,8,5,437,280,33.6,21.5
+New Mexico St.,FBS Independent,2,10,269,485,22.4,40.4
+Massachusetts,FBS Independent,1,11,196,517,16.3,43.1
+UConn,FBS Independent,1,11,187,462,15.6,38.5
+NIU,MAC,9,5,451,472,32.2,33.7
+Central Mich.,MAC,9,4,420,335,32.3,25.8
+Western Mich.,MAC,8,5,422,367,32.5,28.2
+Kent St.,MAC,7,7,462,508,33,36.3
+Toledo,MAC,7,6,434,283,33.4,21.8
+Miami (OH),MAC,7,6,376,300,28.9,23.1
+Eastern Mich.,MAC,7,6,392,390,30.2,30
+Ball St.,MAC,6,7,313,369,24.1,28.4
+Buffalo,MAC,4,8,340,366,28.3,30.5
+Bowling Green,MAC,4,8,257,368,21.4,30.7
+Ohio,MAC,3,9,271,364,22.6,30.3
+Akron,MAC,2,10,245,463,20.4,38.6
+San Diego St.,Mountain West,12,2,383,277,27.4,19.8
+Utah St.,Mountain West,11,3,450,342,32.1,24.4
+Fresno St.,Mountain West,10,3,434,267,33.4,20.5
+Air Force,Mountain West,10,3,403,257,31,19.8
+Nevada,Mountain West,8,5,509,352,39.2,27.1
+Boise St.,Mountain West,7,5,350,228,29.2,19
+Wyoming,Mountain West,7,6,330,308,25.4,23.7
+Hawaii,Mountain West,6,7,385,423,29.6,32.5
+San Jose St.,Mountain West,5,7,236,342,19.7,28.5
+New Mexico,Mountain West,3,9,146,339,12.2,28.3
+UNLV,Mountain West,2,10,249,394,20.8,32.8
+Colorado St.,Mountain West,0,1,284,339,284,339
+Utah,Pac-12,10,4,506,323,36.1,23.1
+Oregon,Pac-12,10,4,440,378,31.4,27
+UCLA,Pac-12,8,4,438,321,36.5,26.8
+Arizona St.,Pac-12,8,5,369,271,28.4,20.8
+Washington St.,Pac-12,7,6,362,315,27.8,24.2
+Oregon St.,Pac-12,7,6,406,335,31.2,25.8
+California,Pac-12,5,7,285,267,23.8,22.3
+Southern California,Pac-12,4,8,344,381,28.7,31.8
+Washington,Pac-12,4,8,258,272,21.5,22.7
+Colorado,Pac-12,4,8,225,320,18.8,26.7
+Stanford,Pac-12,3,9,245,389,20.4,32.4
+Arizona,Pac-12,1,11,213,377,17.8,31.4
+Georgia,SEC,14,1,579,153,38.6,10.2
+Alabama,SEC,13,2,598,302,39.9,20.1
+Ole Miss,SEC,10,3,438,321,33.7,24.7
+Kentucky,SEC,10,3,420,282,32.3,21.7
+Arkansas,SEC,9,4,402,298,30.9,22.9
+Texas A&M,SEC,8,4,352,191,29.3,15.9
+Tennessee,SEC,7,6,511,378,39.3,29.1
+Mississippi St.,SEC,7,6,378,337,29.1,25.9
+South Carolina,SEC,7,6,294,312,22.6,24
+Missouri,SEC,6,7,378,440,29.1,33.8
+Auburn,SEC,6,7,368,283,28.3,21.8
+LSU,SEC,6,7,345,346,26.5,26.6
+Florida,SEC,6,7,399,348,30.7,26.8
+Vanderbilt,SEC,2,10,189,430,15.8,35.8
+Louisiana,Sun Belt,13,1,435,259,31.1,18.5
+Coastal Carolina,Sun Belt,11,2,532,281,40.9,21.6
+App State,Sun Belt,10,4,483,310,34.5,22.1
+Georgia St.,Sun Belt,8,5,366,350,28.2,26.9
+Troy,Sun Belt,5,7,274,313,22.8,26.1
+South Alabama,Sun Belt,5,7,278,291,23.2,24.3
+Texas St.,Sun Belt,4,8,251,375,20.9,31.3
+ULM,Sun Belt,4,8,251,402,20.9,33.5
+Ga. Southern,Sun Belt,3,9,243,377,20.3,31.4
+Arkansas St.,Sun Belt,2,10,303,463,25.3,38.6
